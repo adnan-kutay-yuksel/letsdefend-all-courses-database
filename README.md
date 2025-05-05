@@ -62,7 +62,7 @@ Pull requests are welcome! If you'd like to add more courses, normalize data, or
 
 ## 📬 Contact
 
-For feedback or collaboration: [a.k.yuksel@hotmail.com](mailto:a.k.yuksel@hotmail.com)
+For feedback or collaboration: [CONTACT ME](mailto:a.k.yuksel@hotmail.com)
 
 ## 📄 License
 
