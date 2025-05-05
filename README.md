@@ -5,6 +5,7 @@
 [![twitter-share](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Fletsdefend-all-courses-database)](https://twitter.com/intent/tweet?text=Check%20out%20the%20LetsDefend%20Courses%20Database%20project%20on%20GitHub!&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Fletsdefend-all-courses-database)
 [![linkedin-share](https://img.shields.io/badge/Share-on%20LinkedIn-blue)](https://www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fgithub.com%2Fadnan-kutay-yuksel%2Fletsdefend-all-courses-database&title=Check%20out%20the%20LetsDefend%20Courses%20Database%20project&summary=Explore%20all%20courses%20from%20LetsDefend%20in%20a%20well-organized%20database!&source=LinkedIn)
 
+
 # LetsDefend All Courses Database
 
 A comprehensive and structured database of all available **LetsDefend** courses, designed to help learners find and track their progress across cybersecurity training modules. This project presents key information about each course, including paths, lesson count, quizzes, duration, and more.
