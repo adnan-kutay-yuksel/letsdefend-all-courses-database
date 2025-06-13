@@ -71,6 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
+
 | NO | LINK | ROLE | PATH | COURSE NAME | DETAIL | LESSONS IN COURSE | TOTAL LESSONS | LESSON QUESTIONS | LESSON QUIZ | DURATION  (MIN) | RELATED CHALLENGE | DIFFICULTY | SUBSCRIPTION | TOOLS | TOOL TYPES | TARGET | WRITEUP LINK |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | https://app.letsdefend.io/training/lessons/network-fundamentals | Security Analyst | Career Switch to Cybersecurity Cybersecurity for Students Google Cybersecurity Certificate Preparation Path CompTIA CySA+ Preparation Path | Network Fundamentals | Every SOC Analyst needs to understand how the network works. With this strong basic knowledge, other technical stuff will be easier to understand. | About Network Fundamentals Course Introduction to Network Fundamentals Types of Networks Network Topologies OSI Reference Model Network Devices TCP/IP Model IP Addressing Mechanism Network Address Translation (NAT) | 9 | 16 | 1 | 90 | - | Beginner | Free | - | - | Network | https://medium.com/traditional-cyber-security/letsdefend-network-fundamentals-course-writeup-84e67ff4fe01 |
