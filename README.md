@@ -11,7 +11,7 @@
 A comprehensive and structured database of all available **LetsDefend** courses, designed to help learners find and track their progress across cybersecurity training modules. This project presents key information about each course, including paths, lesson count, quizzes, duration, and more.
 
 ## 🎯 Project Goals
-
+ 
 This project aims to:
 
 - **Track all LetsDefend courses** in a well-organized CSV/JSON format.
