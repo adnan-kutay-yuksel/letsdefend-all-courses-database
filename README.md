@@ -71,6 +71,8 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
+
+
 | **NO** | **LINK** | **ROLE** | **PATH** | **COURSE NAME** | **DETAIL** | **LESSONS IN COURSE** | **TOTAL LESSONS** | **LESSON QUESTIONS** | **LESSON QUIZ** | **DURATION  (MIN)** | **RELATED CHALLENGE** | **DIFFICULTY** | **SUBSCRIPTION** | **TOOLS** | **TOOL TYPES** | **TARGET** | **WRITEUP LINK** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | https://app.letsdefend.io/training/lessons/network-fundamentals | Security Analyst | Career Switch to Cybersecurity Cybersecurity for Students Google Cybersecurity Certificate Preparation Path CompTIA CySA+ Preparation Path | Network Fundamentals | Every SOC Analyst needs to understand how the network works. With this strong basic knowledge, other technical stuff will be easier to understand. | About Network Fundamentals Course Introduction to Network Fundamentals Types of Networks Network Topologies OSI Reference Model Network Devices TCP/IP Model IP Addressing Mechanism Network Address Translation (NAT) | 9 | 16 | 1 | 90 | - | Beginner | Free | - | - | Network | https://medium.com/traditional-cyber-security/letsdefend-network-fundamentals-course-writeup-84e67ff4fe01 |
@@ -240,6 +242,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 165 | https://app.letsdefend.io/training/lessons/wireless-security | Incident Responder |  | Wireless Security | Learn wireless security fundamentals with our comprehensive course and tutorial. Discover techniques to safeguard networks effectively and efficiently. | Introduction Wireless Networking Wireless Authentication Types Security of Wireless Networks Wireless Vulnerabilities Recap | 6 | 11 | 1 | 60 | - | Medium | Premium |  |  |  |  |
 | 166 | https://app.letsdefend.io/training/lessons/threat-hunting-with-firewalls | Threat Hunter |  | Threat Hunting with Firewalls | Learn threat hunting through firewalls with this course and tutorial. Master techniques to identify, analyze, and respond to security threats effectively. | Introduction Information from Firewall Logs for Threat Hunting Threat Hunting Steps with Firewall Logs Outbound Connection Hypothesis Practical Lab | 5 | 15 | 1 | 120 | - | Medium | Premium |  |  |  |  |
 | 167 | https://app.letsdefend.io/training/lessons/application-security-for-security-plus | Incident Responder |  | Application Security for Security+ | Learn essential application security principles with our comprehensive course and step-by-step tutorial, designed to reinforce your Security+ knowledge. | Introduction Application Security Secure Coding Concepts Secure Coding Techniques Prevention Methods for Application Security Recap of Application Security | 6 | 10 | 1 | 90 | - | Easy | Premium |  |  |  |  |
+| 168 | https://app.letsdefend.io/training/lessons/public-key-infrastructure | Incident Responder |  | Public Key Infrastructure | Learn Public Key Infrastructure in our course. Explore PKI concepts and processes with engaging tutorials for comprehensive understanding and application. | Introduction CA and Certificates Public Key Infrastructure Management How to Implement PKI Recap Of Public Key Infrastructure | 5 | 8 | 1 | 60 |  | Easy | Premium |  |  |  |  |
+
+
+
 
 
 
