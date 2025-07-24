@@ -74,7 +74,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-
 | **NO** | **LINK** | **ROLE** | **PATH** | **COURSE NAME** | **DETAIL** | **LESSONS IN COURSE** | **TOTAL LESSONS** | **LESSON QUESTIONS** | **LESSON QUIZ** | **DURATION  (MIN)** | **RELATED CHALLENGE** | **DIFFICULTY** | **SUBSCRIPTION** | **TOOLS** | **TOOL TYPES** | **TARGET** | **WRITEUP LINK** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | https://app.letsdefend.io/training/lessons/network-fundamentals | Security Analyst | Career Switch to Cybersecurity Cybersecurity for Students Google Cybersecurity Certificate Preparation Path CompTIA CySA+ Preparation Path | Network Fundamentals | Every SOC Analyst needs to understand how the network works. With this strong basic knowledge, other technical stuff will be easier to understand. | About Network Fundamentals Course Introduction to Network Fundamentals Types of Networks Network Topologies OSI Reference Model Network Devices TCP/IP Model IP Addressing Mechanism Network Address Translation (NAT) | 9 | 16 | 1 | 90 | - | Beginner | Free | - | - | Network | https://medium.com/traditional-cyber-security/letsdefend-network-fundamentals-course-writeup-84e67ff4fe01 |
@@ -248,7 +247,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 169 | https://app.letsdefend.io/training/lessons/introduction-to-ida | Malware Analyst |  | Introduction to IDA | Learn through our comprehensive course and tutorial to understand the fundamentals of IDA, a powerful tool for reverse engineering and debugging. | Introduction IDA Views and Cross-References Data Types and Structures Dynamic Analysis and Customization of IDA Basic Binary Patching IDA Scripting Fundamentals | 6 | 15 | 1 | 120 |  | Hard | Premium |  |  |  |  |
 | 170 | https://app.letsdefend.io/training/lessons/virtualization-and-cloud-security | Incident Responder |  | Virtualization and Cloud Security | Learn the essentials of virtualization and cloud security in this comprehensive course. | Introduction Virtualization and Security Cloud Computing Security Solutions for the Cloud Recap of Virtualization and Cloud Security | 5 | 8 | 1 | 60 |  | Easy | Premium |  |  |  |  |
 | 171 | https://app.letsdefend.io/training/lessons/threat-hunting-with-ips-ids | Threat Hunter |  | Threat Hunting with IPS/IDS | Learn the essentials of threat hunting with our comprehensive IPS/IDS course and tutorials, designed to boost your cybersecurity skills effectively. | Introduction The Role of IPS/IDS in Threat Hunting Using IPS/IDS in the Threat Hunting Process Network Traffic Anomaly Hypothesis Practical Lab | 5 | 14 | 1 | 180 |  | Hard | Premium |  |  |  |  |
-
+| 172 | https://app.letsdefend.io/training/lessons/monitoring-and-auditing | Incident Responder |  | Monitoring and Auditing | Learn essential monitoring and auditing skills with our comprehensive course and tutorial, designed to strengthen your cybersecurity proficiency. | Introduction Monitoring with IDS Monitoring Commands and Tools Monitoring Commands and Tools - 2 Auditing and Logging Recap of Monitoring and Auditing | 6 | 10 | 1 | 60 |  | Hard | Premium |  |  |  |  |
 
 
 
