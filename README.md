@@ -72,7 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-
 | **NO** | **LINK** | **ROLE** | **PATH** | **COURSE NAME** | **DETAIL** | **LESSONS IN COURSE** | **TOTAL LESSONS** | **LESSON QUESTIONS** | **LESSON QUIZ** | **DURATION  (MIN)** | **RELATED CHALLENGE** | **DIFFICULTY** | **SUBSCRIPTION** | **TOOLS** | **TOOL TYPES** | **TARGET** | **WRITEUP LINK** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | https://app.letsdefend.io/training/lessons/network-fundamentals | Security Analyst | Career Switch to Cybersecurity Cybersecurity for Students Google Cybersecurity Certificate Preparation Path CompTIA CySA+ Preparation Path | Network Fundamentals | Every SOC Analyst needs to understand how the network works. With this strong basic knowledge, other technical stuff will be easier to understand. | About Network Fundamentals Course Introduction to Network Fundamentals Types of Networks Network Topologies OSI Reference Model Network Devices TCP/IP Model IP Addressing Mechanism Network Address Translation (NAT) | 9 | 16 | 1 | 90 | - | Beginner | Free | - | - | Network | https://medium.com/traditional-cyber-security/letsdefend-network-fundamentals-course-writeup-84e67ff4fe01 |
@@ -248,7 +247,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 171 | https://app.letsdefend.io/training/lessons/threat-hunting-with-ips-ids | Threat Hunter |  | Threat Hunting with IPS/IDS | Learn the essentials of threat hunting with our comprehensive IPS/IDS course and tutorials, designed to boost your cybersecurity skills effectively. | Introduction The Role of IPS/IDS in Threat Hunting Using IPS/IDS in the Threat Hunting Process Network Traffic Anomaly Hypothesis Practical Lab | 5 | 14 | 1 | 180 |  | Hard | Premium |  |  |  |  |
 | 172 | https://app.letsdefend.io/training/lessons/monitoring-and-auditing | Incident Responder |  | Monitoring and Auditing | Learn essential monitoring and auditing skills with our comprehensive course and tutorial, designed to strengthen your cybersecurity proficiency. | Introduction Monitoring with IDS Monitoring Commands and Tools Monitoring Commands and Tools - 2 Auditing and Logging Recap of Monitoring and Auditing | 6 | 10 | 1 | 60 |  | Hard | Premium |  |  |  |  |
 | 173 | https://app.letsdefend.io/training/lessons/threat-hunting-with-waf | Threat Hunter |  | Threat Hunting with WAF | Learn the essentials of Threat Hunting with WAF in this comprehensive course. Engage with practical tutorials to bolster your cybersecurity skills. | Introduction Role of WAF in Threat Hunting Using WAF in the Threat Hunting Process Web-based Brute Force Attack Hypothesis Practical Lab | 5 | 14 | 1 | 180 |  | Hard | Premium |  |  |  |  |
-
+| 174 | https://app.letsdefend.io/training/lessons/cabling-and-connectors | Incident Responder |  | Cabling and Connectors | Learn all about cabling and connectors with our detailed course. This course covers key concepts for setting up and managing network infrastructure. | Introduction Understanding Cabling for Network Infrastructure Copper Cabling and Connectors Unshielded Twisted Pair (UTP) Cabling Fiber-Optic Cabling and Connectors Fire Rating and Troubleshooting IEEE Standards | 7 | 12 | 1 | 30 |  | Easy | Premium |  |  |  |  |
 
 
 
