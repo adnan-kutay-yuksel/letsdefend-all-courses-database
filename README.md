@@ -248,6 +248,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 173 | https://app.letsdefend.io/training/lessons/threat-hunting-with-waf | Threat Hunter |  | Threat Hunting with WAF | Learn the essentials of Threat Hunting with WAF in this comprehensive course. Engage with practical tutorials to bolster your cybersecurity skills. | Introduction Role of WAF in Threat Hunting Using WAF in the Threat Hunting Process Web-based Brute Force Attack Hypothesis Practical Lab | 5 | 14 | 1 | 180 |  | Hard | Premium |  |  |  |  |
 | 174 | https://app.letsdefend.io/training/lessons/cabling-and-connectors | Incident Responder |  | Cabling and Connectors | Learn all about cabling and connectors with our detailed course. This course covers key concepts for setting up and managing network infrastructure. | Introduction Understanding Cabling for Network Infrastructure Copper Cabling and Connectors Unshielded Twisted Pair (UTP) Cabling Fiber-Optic Cabling and Connectors Fire Rating and Troubleshooting IEEE Standards | 7 | 12 | 1 | 30 |  | Easy | Premium |  |  |  |  |
 | 175 | https://app.letsdefend.io/training/lessons/threat-hunting-with-email-security | Threat Hunter |  | Threat Hunting with Email Security | Learn threat hunting with our course focused on email security systems, featuring practical tutorials for detecting and neutralizing email-based threats. | Introduction Role of Email Security Systems in Threat Hunting Using Email Security Systems Abnormal Email Sending Pattern Hypothesis Practical Lab | 5 | 13 | 1 | 120 |  | Hard | Premium |  |  |  |  |
+| 176 | https://app.letsdefend.io/training/lessons/ethernet-basics | Incident Responder |  | Ethernet Basics | Learn the essentials of Ethernet with our comprehensive course and tutorial. Dive into networking fundamentals and enhance your understanding of Ethernet Basics. | Introduction Frames of Ethernet Ethernet Cabling Standards and Early Ethernet Advancing and Scaling Ethernet Networks Segmenting and Troubleshooting Ethernet | 5 | 9 | - | 45 |  | Easy | Premium |  |  |  |  |
+
+
+
 
 
 
