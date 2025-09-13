@@ -72,7 +72,6 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
-
 | **NO** | **LINK** | **ROLE** | **PATH** | **COURSE NAME** | **DETAIL** | **LESSONS IN COURSE** | **TOTAL LESSONS** | **LESSON QUESTIONS** | **LESSON QUIZ** | **DURATION  (MIN)** | **RELATED CHALLENGE** | **DIFFICULTY** | **SUBSCRIPTION** | **TOOLS** | **TOOL TYPES** | **TARGET** | **WRITEUP LINK** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | https://app.letsdefend.io/training/lessons/network-fundamentals | Security Analyst | Career Switch to Cybersecurity Cybersecurity for Students Google Cybersecurity Certificate Preparation Path CompTIA CySA+ Preparation Path | Network Fundamentals | Every SOC Analyst needs to understand how the network works. With this strong basic knowledge, other technical stuff will be easier to understand. | About Network Fundamentals Course Introduction to Network Fundamentals Types of Networks Network Topologies OSI Reference Model Network Devices TCP/IP Model IP Addressing Mechanism Network Address Translation (NAT) | 9 | 16 | 1 | 90 | - | Beginner | Free | - | - | Network | https://medium.com/traditional-cyber-security/letsdefend-network-fundamentals-course-writeup-84e67ff4fe01 |
@@ -253,7 +252,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 176 | https://app.letsdefend.io/training/lessons/ethernet-basics | Incident Responder |  | Ethernet Basics | Learn the essentials of Ethernet with our comprehensive course and tutorial. Dive into networking fundamentals and enhance your understanding of Ethernet Basics. | Introduction Frames of Ethernet Ethernet Cabling Standards and Early Ethernet Advancing and Scaling Ethernet Networks Segmenting and Troubleshooting Ethernet | 5 | 9 | - | 45 |  | Easy | Premium |  |  |  |  |
 | 177 | https://app.letsdefend.io/training/lessons/threat-hunting-with-dns | Threat Hunter |  | Threat Hunting with DNS | Learn practical DNS threat hunting techniques with our comprehensive course and tutorial, designed for security professionals eager to deepen their skills. | Introduction Role of DNS Security Systems Using DNS Security Systems DNS Queries and Data Exfiltration Hypothesis Suspicious DNS Queries Hypothesis Practical Lab | 6 | 13 | 1 | 180 |  | Hard | Premium |  |  |  |  |
 | 178 | https://app.letsdefend.io/training/lessons/ethernet-improvements | Incident Responder |  | Ethernet Improvements | Learn advanced Ethernet improvements through our comprehensive course and tutorial. | Introduction 100 Megabit Ethernet Gigabit Ethernet Implementation of Gigabit Ethernet Ethernet Evolutions | 5 | 13 | - | 120 |  | Easy | Premium |  |  |  |  |
-
+| 179 | https://app.letsdefend.io/training/lessons/introduction-to-security-plus | Incident Responder |  | Introduction to Security+ | Learn to prepare for the CompTIA Security+ exam with our comprehensive course. Engage with practical tutorials for effective exam readiness. | Introduction to Security+ Path Why You Should Get Security+ Certified Exam Structure and Specifications Scheduling the Exam | 4 | 13 | - | 30 |  | Easy | Premium |  |  |  |  |
 
 
 
