@@ -71,6 +71,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 
 
+
 | **NO** | **LINK** | **ROLE** | **PATH** | **COURSE NAME** | **DETAIL** | **LESSONS IN COURSE** | **TOTAL LESSONS** | **LESSON QUESTIONS** | **LESSON QUIZ** | **DURATION  (MIN)** | **RELATED CHALLENGE** | **DIFFICULTY** | **SUBSCRIPTION** | **TOOLS** | **TOOL TYPES** | **TARGET** | **WRITEUP LINK** |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
 | 1 | https://app.letsdefend.io/training/lessons/network-fundamentals | Security Analyst | Career Switch to Cybersecurity Cybersecurity for Students Google Cybersecurity Certificate Preparation Path CompTIA CySA+ Preparation Path | Network Fundamentals | Every SOC Analyst needs to understand how the network works. With this strong basic knowledge, other technical stuff will be easier to understand. | About Network Fundamentals Course Introduction to Network Fundamentals Types of Networks Network Topologies OSI Reference Model Network Devices TCP/IP Model IP Addressing Mechanism Network Address Translation (NAT) | 9 | 16 | 1 | 90 | - | Beginner | Free | - | - | Network | https://medium.com/traditional-cyber-security/letsdefend-network-fundamentals-course-writeup-84e67ff4fe01 |
@@ -253,7 +254,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 | 178 | https://app.letsdefend.io/training/lessons/ethernet-improvements | Incident Responder |  | Ethernet Improvements | Learn advanced Ethernet improvements through our comprehensive course and tutorial. | Introduction 100 Megabit Ethernet Gigabit Ethernet Implementation of Gigabit Ethernet Ethernet Evolutions | 5 | 13 | - | 120 |  | Easy | Premium |  |  |  |  |
 | 179 | https://app.letsdefend.io/training/lessons/introduction-to-security-plus | Incident Responder |  | Introduction to Security+ | Learn to prepare for the CompTIA Security+ exam with our comprehensive course. Engage with practical tutorials for effective exam readiness. | Introduction to Security+ Path Why You Should Get Security+ Certified Exam Structure and Specifications Scheduling the Exam | 4 | 13 | - | 30 |  | Easy | Premium |  |  |  |  |
 | 180 | https://app.letsdefend.io/training/lessons/threat-hunting-with-deception | Threat Hunter |  | Threat Hunting with Deception | Discover the art of threat hunting with deception techniques in this comprehensive course. Learn through engaging tutorials to advance your cybersecurity skills. | Introduction Threat Hunting with Deception Technologies Using Deception in Threat Hunting Process Unauthorized Access Attempts Hypothesis Practical Lab | 5 | 13 | 1 | 150 |  | Hard | Premium |  |  |  |  |
-
+| 181 | https://app.letsdefend.io/training/lessons/nics-and-physical-network-cabling | Incident Responder |  | NICs and Physical Network Cabling | Dive into our course to learn the essentials of NICs and physical network cabling through engaging tutorials, boosting your network knowledge effectively. | Introduction Core Components of Cabling Networks Structured Cabling Design Testing Network Setup Understanding NICs | 5 | 13 | 1 | 60 |  | Easy | Premium |  |  |  |  |
 
 
 
